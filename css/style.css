@@ -16,10 +16,10 @@ body{
 }
 
 button{
-  background-color: black;
+  background-color: rgb(6, 133, 101);
   color: white;
-  font-size: 24px;
-  border: 1px solid white;
+  font-size: 30px;
+  border: none white;
   padding: 2px 5px;
   margin: 28px 28px;
   height: 37px;
