@@ -28,7 +28,26 @@ button{
 
 button:hover{
   cursor: pointer;
-  background-color: antiquewhite;
+  background-color: rgb(67, 247, 172);
   color: black;
   border-radius: 50%;
+}
+
+.clear-btn{
+  width: 110px;
+  margin: 21px auto;
+  display: block;
+}
+
+.display{
+  background-color: black;
+  color: white;
+  width: 450px;
+  height: 60px;
+  margin: 24px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  font-weight: 600;
 }
